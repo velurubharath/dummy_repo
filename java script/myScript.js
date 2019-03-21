@@ -11,3 +11,5 @@ alert("Buy one more item to get a promo code");
 else {
 alert("You are not eligible for a promocode");
 }
+
+console.log("Success on the second commit")
