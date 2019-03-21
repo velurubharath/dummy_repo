@@ -1,0 +1,35 @@
+
+
+p:focus{
+	color:orange;
+	font-size: 24px;
+}
+
+p{
+	color:gray;
+	font-size: 24px;
+}
+
+p::selection{
+	color:white;
+	background-color:black;
+}
+
+
+
+
+h1{
+	font: oblique bold 2rem 'calibri';
+}
+
+.myStyle{
+	color:green;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#myHeading{
+	color:blue;
+	font-size: 36px;
+	font-weight: bolder;
+}
