@@ -1,0 +1,17 @@
+{
+    "members":3,
+    "Date":"28 july",
+    "persons":[
+        {
+            "name":"Bharath",
+            "craft":"aryabhatta"
+        },
+        {
+            "name":"Rohit",
+            "craft":"MBBS"
+        }
+    ],
+    "location":"tirupati"
+
+
+}
